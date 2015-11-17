@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NTRLab Test</string>
+    <string name="loading">Loading...</string>
+    <string name="start">Start</string>
+    <string name="restart">Restart</string>
+    <string name="io_error_msg">IO Error. Please check your network connection and try again.</string>
+    <string name="title_name">Name:</string>
+    <string name="title_address">Address:</string>
+    <string name="title_phone">Phone:</string>
+    <string name="title_date_opened">Date opened:</string>
+    <string name="title_date_closed">Date closed:</string>
+    <string name="addr_case">case</string>
+    <string name="addr_apt">apt.</string>
+</resources>
